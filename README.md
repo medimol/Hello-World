@@ -9,7 +9,7 @@ Takeru Sakakibara
 
 Tomohiro Yada
 
-
+Takuma Ito
 
 Mizuki IMAI
 

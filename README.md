@@ -5,7 +5,7 @@ Githubとgitの使い方総復習用リポジトリ
 Ken Matsuda
 Hayate Ogura
 
-
+Takuma Ito
 
 
 
